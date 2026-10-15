@@ -1,0 +1,13 @@
+# Visual Studio User Settings & Cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results / Binaries
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+packages/
